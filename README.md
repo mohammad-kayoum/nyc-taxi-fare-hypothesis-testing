@@ -180,15 +180,28 @@ jupyter notebook
 
 ## 📸 Project Screenshots
 
-> Add screenshots of your visualizations here.
+### Payment Method Distribution
 
-Example:
+![Payment Distribution](images/Pieplot.png)
 
-- Payment Distribution
-- Fare Distribution
-- Boxplot
-- Q-Q Plot
-- Statistical Test Output
+---
+
+### Fare Amount Distribution
+
+![Fare Distribution](images/Distribution1.png)
+
+---
+
+### Outlier Detection Using Boxplot
+
+![Boxplot](images/Boxplot.png)
+
+---
+
+### Normality Assessment (Q-Q Plot)
+
+![QQ Plot](images/QQplot.png)
+
 
 ---
 
@@ -221,8 +234,8 @@ Example:
 
 **Kayoum Biswas**
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: https://www.linkedin.com/in/-mohammadkayoum-data-analyst/
+- GitHub: https://github.com/mohammad-kayoum
 
 ---
 
